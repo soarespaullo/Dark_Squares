@@ -53,6 +53,10 @@ Abra a pasta do tema e substitua o arquivo “background.png” para o que você
 
 ### Screenshot 
 
-![screenshot](/imagens/logo.png)
+![screenshot](/imagens/logo-01.png)
+
+![screenshot](/imagens/logo-02.png)
+
+![screenshot](/imagens/logo-03.png)
 
 _Sinta-se livre para copiar o tema e fazer sua própria alteração!;-)_
