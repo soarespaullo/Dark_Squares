@@ -1,3 +1,9 @@
+[![Meu Telegram](https://img.shields.io/badge/Meu-Telegram-red)](https://t.me/k4k4rot0)
+![GitHub repo size](https://img.shields.io/github/repo-size/k4k4rot0/Dark_Squares?label=Tamanho)
+![GitHub contributors](https://img.shields.io/github/contributors/k4k4rot0/login?color=yellow&label=contribuidores)
+![GitHub](https://img.shields.io/github/license/k4k4rot0/Dark_Squares?label=Licença)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 # Instalação e configuração! 
 
 ```
