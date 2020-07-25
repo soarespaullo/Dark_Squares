@@ -10,13 +10,13 @@
 git clone https://github.com/k4k4rot0/Dark_Squares.git
 ```
 
-**Veja se tem o diretório thema** 
+**Veja se tem o diretório themas** 
 
 ```
 ls /usr/share/grub/themes
 ```
 
-**Se caso não tiver crie ele**
+**Caso não tenha crie**
 
 ```
 sudo mkdir /usr/share/grub/themes
