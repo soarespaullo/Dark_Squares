@@ -14,7 +14,7 @@ git clone https://github.com/k4k4rot0/Dark_Squares.git
 
 ```
 cd Dark_Square
-
+```
 **Veja se tem o diretório themes** 
 
 ```
