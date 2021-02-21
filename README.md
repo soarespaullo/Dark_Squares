@@ -13,7 +13,7 @@ git clone https://github.com/k4k4rot0/Dark_Squares.git
 **Entre na pasta do tema baixado**
 
 ```
-cd Dark_Square
+cd Dark_Squares
 ```
 **Veja se tem o diretório themes** 
 
