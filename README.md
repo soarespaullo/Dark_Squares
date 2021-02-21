@@ -10,19 +10,24 @@
 git clone https://github.com/k4k4rot0/Dark_Squares.git
 ```
 
-**Veja se tem o diretório themas** 
+**Entre na pasta do tema baixado**
+
+```
+cd Dark_Square
+
+**Veja se tem o diretório themes** 
 
 ```
 ls /usr/share/grub/themes
 ```
 
-**Caso não tenha crie**
+**Caso não tenha, crie**
 
 ```
 sudo mkdir /usr/share/grub/themes
 ```
 
-**Vamos copicar o tema**
+**Copie o tema**
 
 ```
 sudo cp -r dark_squares/ /usr/share/grub/themes
@@ -31,10 +36,10 @@ sudo cp -r dark_squares/ /usr/share/grub/themes
 **Abra o arquivo:** 
 
 ```
-sudo nano /etc/default/grub 
+sudo vim /etc/default/grub 
 ```
 
-**e adicione:** 
+**Descomente e adicione:** 
 
 ```
 GRUB_THEME="/usr/share/grub/themes/dark_squares/theme.txt"
