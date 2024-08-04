@@ -79,4 +79,3 @@ _Sinta-se livre para copiar o tema e fazer sua própria alteração!;-)_
 [Tutorial do tema GRUB-2](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
 
 [Referência do tema GRUB-2](http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference)
-
